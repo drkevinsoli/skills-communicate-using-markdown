@@ -13,3 +13,8 @@ Tested h1, h3 and h6 for a markdown exercise.
 name = input("Enter your name: ")
 print("Hello" + name + "!")
 ```
+
+Task List
+- [ ] Complete 'Introduction to GitHub'.
+- [ ] Complete 'Communicate using Markdown'.
+- [ ] Complete 'GitHub Pages'.
