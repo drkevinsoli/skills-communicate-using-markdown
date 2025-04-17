@@ -10,5 +10,6 @@ Tested h1, h3 and h6 for a markdown exercise.
 ![GitHub logo white](https://github.com/user-attachments/assets/42f6db20-8a3f-4a00-9833-d2ea5b12b415)
 
 ~~~ python
-print("Hello GitHub!")
+name = input("Enter your name: ")
+print("Hello" + name + "!")
 ~~~
